@@ -18,9 +18,17 @@ This is a self-motivated project to discover successful tactics in fantasy baske
 
 - file_name: fantasybball_proj_eda.ipynb 
 
-### The second phase: Classification Problem
+### The second phase: Multi-Class Classification Problem
 
-In fantasy basketball head-to-head leagues, there are 9 categories that two teams compete for. The goal is to win 5 of the 9 categories. I wanted to understand the most prominent categories that high-ranked players had. Additionally, which categories were not as prominent?
+In fantasy basketball head-to-head leagues, there are 9 categories that two teams compete for. The goal is to win 5 of the 9 categories. I wanted to understand the most prominent categories that high-ranked players had. Furthermore, which categories were not as prominent?
+
+Additionally, there are often 156 players in 12-player leagues. This is where the multi-class classification problem comes in. I wanted to understand if my model could properly predict which bucket a player would end up:
+* Top 40 player (Ranked 1-40)
+* Top 80 player (Ranked 41-80)
+* Top 120 player (Ranked 81-120)
+* Top 200 player (Ranked 121-188)
+
+As a fantasy basketball manager, you would hope a majority of your players are in the first two buckets.
 
 **Description of skills exercised:**
 - I train and evaluate statistical models through the following algorithms: Logistic Regression and Random Forests
