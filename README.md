@@ -16,7 +16,7 @@ This is a self-motivated project to discover successful tactics in fantasy baske
 - Creating a dataset through the use of multiple data sources
 - Python skillset is displayed through the use of: written functions, iterations, multiple 'for' loops
 
-- file_name: fantasybball_proj_eda.ipynb 
+- file_name: [fantasybball_proj_eda.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_eda.ipynb)
 
 ### The second phase: Multi-Class Classification Problem
 
@@ -35,4 +35,4 @@ As a fantasy basketball manager, you would hope a majority of your players are i
 - To prevent an overfitting model, I use train-test split and k-fold cross validation techniques
 - I perform feature engineering in hopes of creating a model with improved, predictive accuracy
 
-- file_name: fantasybball_proj_classification.ipynb
+- file_name: [fantasybball_proj_classification.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_classification.ipynb)
