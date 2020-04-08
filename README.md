@@ -2,7 +2,7 @@
 
 This is a self-motivated project to discover successful tactics in fantasy basketball. I love competing against my friends in fantasy basketball, but I never really utilized historic data to formulate strategies for the future. I hope to demonstrate my data science skillset throughout this project.
 
-- Powerpoint presentation summarizing the analysis: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
+- **Powerpoint presentation** summarizing analysis: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
 
 
 **For data, I clean and combine multiple data sources before comprehensive analysis:**
