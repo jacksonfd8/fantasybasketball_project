@@ -65,5 +65,5 @@ As a fantasy basketball manager, you would hope a majority of your players are i
 </p>
 
 ## Future Work
-- I intend on evaluate this model on the 2019-2020 rankings to see how my model fared. 
+- I intend on evaluating this model against 2019-2020 rankings to see how my model fares. 
 - I will add additional data to see if the predictability of my model will increase in terms of accuracy.
