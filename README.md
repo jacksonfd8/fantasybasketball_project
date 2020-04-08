@@ -1,6 +1,13 @@
 # Discovering winning fantasy basketball strategies with Data Science techniques
 
-This is a self-motivated project to discover successful tactics in fantasy basketball. I love competing against my friends in fantasy basketball, but I never really utilized historic data to formulate strategies for the future. I hope to demonstrate my data science skillset throughout this project.
+<p align="center">
+  <img />
+<img src="https://www.jameskerti.com/wp-content/uploads/2016/03/basketball-analytics.jpg"/></div>
+</p>
+
+This is a self-motivated project to discover successful tactics in fantasy basketball. I love competing against my friends in fantasy basketball, but I never really utilized historic data to formulate strategies for the future. I demonstrate my data science skillset through this project.
+
+
 
 - **Powerpoint presentation** summarizing analysis: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
 
