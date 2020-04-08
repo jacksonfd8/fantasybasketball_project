@@ -16,6 +16,7 @@ This is a self-motivated project to discover successful tactics in fantasy baske
 - Deploy solution: I provide the solution to future fantasy basketball managers to utilize 
 
 ### Exploratory Data Analysis
+- file_name: [fantasybball_proj_eda.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_eda.ipynb)
 
 **I clean and combine multiple data sources before comprehensive analysis:**
 - Historical draft results (2015-2018) from Yahoo
@@ -27,9 +28,21 @@ This is a self-motivated project to discover successful tactics in fantasy baske
 - Creating a dataset through the use of multiple data sources
 - Python skillset is displayed through the use of: written functions, iterations, multiple 'for' loops
 
-- file_name: [fantasybball_proj_eda.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_eda.ipynb)
+<p align="center">
+  <img />
+<img src="https://imgur.com/9NG8yNx.png"/></div>
+</p>
+
+
+<p align="center">
+  <img />
+<img src="https://imgur.com/6EcE7aL.png"/></div>
+</p>
+
+
 
 ### Multi-Class Classification Problem
+- file_name: [fantasybball_proj_classification.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_classification.ipynb)
 
 In fantasy basketball head-to-head leagues, there are 9 categories that two teams compete for. The goal is to win 5 of the 9 categories. I wanted to understand the most prominent categories that high-ranked players had. Furthermore, which categories were not as prominent?
 
@@ -46,7 +59,10 @@ As a fantasy basketball manager, you would hope a majority of your players are i
 - To prevent an overfitting model, I use train-test split and k-fold cross validation techniques
 - I perform feature engineering in hopes of creating a model with improved, predictive accuracy
 
-- file_name: [fantasybball_proj_classification.ipynb](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/fantasybball_proj_classification.ipynb)
+<p align="center">
+  <img />
+<img src="https://i.imgur.com/iVON6hZ.png"/></div>
+</p>
 
 ## Future Work
 - I intend on evaluate this model on the 2019-2020 rankings to see how my model fared. 
