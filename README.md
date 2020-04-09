@@ -5,9 +5,12 @@
 <img src="https://www.jameskerti.com/wp-content/uploads/2016/03/basketball-analytics.jpg"/></div>
 </p>
 
+## Overview
+
 This is a self-motivated project to discover successful tactics in fantasy basketball. I love competing against friends in fantasy basketball, but never really utilized data to formulate strategies. I demonstrate my data science skillset through this project.
 
-- **Powerpoint presentation** summarizing analysis: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
+## Summary of Results
+- **Powerpoint presentation**: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
 
 ## Project Design
 - Define the problem: Can we utilize historical data to discover strategies?
