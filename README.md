@@ -10,7 +10,7 @@
 This is a self-motivated project to discover successful tactics in fantasy basketball. I love competing against friends in fantasy basketball, but never really utilized data to formulate strategies. I demonstrate my data science skillset through this project.
 
 ## Summary of Results
-- **Powerpoint presentation**: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pptx)
+- **Powerpoint presentation**: [link](https://github.com/jacksonfd8/fantasybasketball_project/blob/master/JAu_Fbball_Insights.pdf)
 
 ## Project Design
 - Define the problem: Can we utilize historical data to discover strategies?
